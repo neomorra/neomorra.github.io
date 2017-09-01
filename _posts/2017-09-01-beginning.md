@@ -1,5 +1,5 @@
+
 ---
-name: Andrea Morassutto
 layout: post
 title: Neomorra - first post
 date: 2017-09-01
